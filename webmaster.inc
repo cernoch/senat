@@ -1,1 +1,1 @@
-Za obsah zodpovídá: <a href="mailto:cernorad@fel.cvut.cz">Radomír Èernoch</a>
+Za obsah zodpovídá: <a href="https://usermap.cvut.cz/profile/cernorad/">Radomír Èernoch</a>
