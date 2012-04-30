@@ -2,6 +2,7 @@
 <b>27.&nbsp;4.&nbsp;2012 od&nbsp;9:00</b>
 v&nbsp;místnosti&nbsp;C4-80.</p>
 
+<!--
 <h4>Návrh programu:</h4>
 <ol id='program'>
 <li>Schválení programu
@@ -17,13 +18,14 @@ v&nbsp;místnosti&nbsp;C4-80.</p>
  <li>informace: kroky k vytvoøení (na dìkanátu)
  oddìlení pro zahranièní styky a vnìj¹í vztahy</li>
 </ol></li>
-</ol>
+</ol>-->
 
-<!--<li><a href="https://felnet.feld.cvut.cz/infodek/SENAT/PREDKLADANO/">-->
 <h4>Související:</h4><ul>
-<li><a href="http://www.fel.cvut.cz/aktuality/senat-zasedani.html">Pøenos ze zasedání</a></li>
 <li><a href="https://felnet.feld.cvut.cz/infodek/SENAT/VEDENI/FUNKCNI%20OBDOBI%20AS%202010-13/">
 Pøedkládané materiály</a></li>
 <li>(Pou¾ijte heslo do sítì Novell v&nbsp;Dejvicích.)</li>
 </ul>
+<!--
+<li><a href="http://www.fel.cvut.cz/aktuality/senat-zasedani.html">Pøenos ze zasedání</a></li>-->
+<!--<li><a href="https://felnet.feld.cvut.cz/infodek/SENAT/PREDKLADANO/">-->
 
